@@ -1,7 +1,11 @@
+body {
+  background-color: #e8dfce;
+}
+
 hr {
   height: 1px;
-  background-color: brown;
-  border-color: brown;
+  background-color: #cb8655;
+  border-color: #cb8655;
 }
 
 .bottom-line {
@@ -19,16 +23,6 @@ h1, h2 {
   font-size: 18px;
 }
 
-.flavor, .dessert {
-  text-align: left;
-  width: 75%;
-}
-
-.price {
-  text-align: right;
-  width: 25%;
-}
-
 /* FOOTER */
 
 footer {
@@ -40,7 +34,7 @@ footer {
 }
 
 a {
-  color: black;
+  color: ##e09b80;
 }
 
 a:visited {
