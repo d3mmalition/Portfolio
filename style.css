@@ -1,5 +1,15 @@
 body {
+  margin:0;
   background-color: #e8dfce;
+  align: center;
+}
+
+header > div > nav > a {
+  padding: 0 15px 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #493736;
 }
 
 hr {
