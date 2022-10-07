@@ -8,6 +8,10 @@ body {
   font-family: Tahoma;
  
 }
+img {
+    width: 400px;
+    height: auto;
+}
 header > div > nav{
   padding: 0 15px 10px 20px;
   font-size: 16px;
